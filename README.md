@@ -8,6 +8,6 @@
 
 
 <a href='https://react.dev/'>![js](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)</a>
-<a href='#'>![js](https://img.shields.io/badge/HTML-RED?style=flat&logo=html&logoColor=white)</a>
+<a href='#'>![js](https://img.shields.io/badge/HTML-5A29E4?style=flat&logo=html&logoColor=white)</a>
 <a href='https://recoiljs.org/ko/'>![js](https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white)</a>
 <a href='https://styled-components.com/'>![js](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)</a>
