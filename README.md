@@ -2,5 +2,5 @@
 
 <p><h2>➡️PROFILE</h2></p>
 <a href="https://github.com/LFCKJ" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
-<a href="https://blog.naver.com/jae__hwan" target="_blank"><img src="https://img.shields.io/badge/Nblog-000000?style=for-the-badge&logo-bitdefender&logoColor=0 255 0"/></a>
+<a href="https://blog.naver.com/jae__hwan" target="_blank"><img src="https://img.shields.io/badge/Nblog-000000?style=for-the-badge&logo-bitdefender&logoColor=0800"/></a>
 <a href="https://github.com/LFCKJ" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
