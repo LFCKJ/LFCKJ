@@ -17,4 +17,5 @@
 
 <a href='#'>![js](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)</a>
 <a href='#'>![js](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)</a>
-<a href='#'>![js](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)</a>
+<a href='#'>![js](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)</a></br>
+<a href='#'>![js](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)</a>
