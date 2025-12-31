@@ -5,4 +5,4 @@
 <a href="https://blog.naver.com/jae__hwan" target="_blank"><img src="https://img.shields.io/badge/Nblog-008000?style=for-the-badge&logo-bitdefender&logoColor=008000"/></a>
 <!--a href="https://github.com/LFCKJ" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a-->
 <p><h2>💻SKILLS</h2></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHubLFCKJ)](https://github.com/anuraghazra/githubreadme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LFCKJ)](https://github.com/anuraghazra/githubreadme-stats)
