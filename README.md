@@ -7,7 +7,7 @@
 <p><h2>💻SKILLS</h2></p>
 
 
-<a href='https://react.dev/'>![js](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)</a>
+<a href='https://react.dev/'>![js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</a>
 <a href='#'>![js](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</a>
 <a href='#'>![js](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)</a>
 <a href='https://styled-components.com/'>![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)</a>
